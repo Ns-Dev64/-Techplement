@@ -1,0 +1,33 @@
+.row{
+   max-width: 50%;
+   
+}
+.btn:hover{
+    color:#fff;
+}
+.btn{
+    border: none;
+}
+
+.form-control {
+    border: 1px solid #f8c146;
+    /* border: none; */
+}
+/* Remove borders from the input and button */
+.input-group .form-control {
+    border: none; /* Remove border from input box */
+    border-radius: 0; /* Optional: Remove rounded corners */
+    box-shadow: none; /* Remove any shadow effect */
+  }
+  
+  .input-group .btn {
+    border: none; /* Remove border from button */
+    border-radius: 0; /* Optional: Remove rounded corners */
+  }
+  
+  /* Optional: Add custom styles for hover effects */
+  .input-group .btn:hover {
+    background-color: #f0ad4e; /* Change background color on hover */
+    color: black; /* Change text color on hover */
+  }
+  

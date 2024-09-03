@@ -1,0 +1,12 @@
+.footer {
+    background-color: #eed64b; /* yellowish color */
+    color: #000; /* black text color */
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
